@@ -2,7 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Isaac Koga, tenho 22 anos e sou natural de Minas Gerais. Concluí o ensino médio no Anglo. Atualmente, estou cursando Sistemas de Informação na Mackenzie.
+👋 Olá! Me chamo Isaac Koga, tenho 22 anos e sou natural de Minas Gerais.
+🎓 Atualmente, curso Sistemas de Informação na Universidade Presbiteriana Mackenzie.
+💡 Sou apaixonado por front-end e tudo que envolve criar interfaces intuitivas e bem pensadas.
+🛠️ Tenho experiência com HTML5, CSS, JavaScript, além de conhecimentos em Python e Java.
+🚀 Sempre buscando evoluir, explorar novas tecnologias e construir soluções com propósito.
 
 ---
 
