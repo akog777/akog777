@@ -1,8 +1,8 @@
-# Isaac Koga Carone
+# Isaac Luiz Koga Carone
 
 **`Desenvolvedor FullStack`**
 
-## Sobre mim
+## 🇯🇵 Sobre mim
 
 Olá! Me chamo **Isaac L. Koga Carone**, tenho 22 anos e sou natural de **Minas Gerais**. Atualmente, curso **Sistemas de Informação** na Universidade Presbiteriana **Mackenzie**.
 Apaixonado por **desenvolvimento front-end** e pela criação de interfaces intuitivas e funcionais. Experiência com **HTML5**, **CSS**, **JavaScript** e conhecimentos em **Python** e **Java**.  
