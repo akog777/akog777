@@ -4,9 +4,9 @@
 
 ## <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="24"/> <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Bandeira do Japão" width="25"/> Sobre mim
 
-Olá! Me chamo **Isaac L. Koga Carone**, tenho 22 anos e sou natural de **Minas Gerais**. Atualmente, curso **Sistemas de Informação** na Universidade Presbiteriana **Mackenzie**.
-Apaixonado por **desenvolvimento front-end** e pela criação de interfaces intuitivas e funcionais. Experiência com **HTML5**, **CSS**, **JavaScript** e conhecimentos em **Python** e **Java**.  
-Estou sempre em busca de novos aprendizados, desafios e soluções criativas com propósito.
+Olá! Me chamo Isaac koga, tenho 22 anos e sou Mineiro. Atualmente, curso Sistemas de Informação na Universidade Presbiteriana **Mackenzie**. Tenho grande facilidade com desenvolvimento front-end e sou movido pela constante vontade de evoluir, 
+sempre buscando aprender novas tecnologias de forma autodidata. Experiência com **HTML5**, **CSS**, **JavaScript**, **Python** e **Java**.  
+
 
 
 ---
