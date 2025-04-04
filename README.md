@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Isaac Luiz Koga Carone, tenho 22 anos e sou natural de Minas Gerais. Concluí o ensino médio no Anglo. Atualmente, estou cursando Sistemas de Informação na Mackenzie.
+Me chamo Isaac Koga, tenho 22 anos e sou natural de Minas Gerais. Concluí o ensino médio no Anglo. Atualmente, estou cursando Sistemas de Informação na Mackenzie.
 
 ---
 
