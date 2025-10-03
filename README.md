@@ -5,7 +5,7 @@
 ## <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="24"/> <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Bandeira do Japão" width="25"/> Sobre mim
 
 Olá! Me chamo Isaac koga, tenho 22 anos e sou Mineiro. Atualmente, curso Sistemas de Informação na Universidade Presbiteriana **Mackenzie**. Tenho grande facilidade com desenvolvimento front-end e sou movido pela constante vontade de evoluir, 
-sempre buscando aprender novas tecnologias de forma autodidata. Experiência com **JavaScript**, **Swift**, **Java**, **Python**, **HTML5** e **CSS**.
+sempre buscando aprender novas tecnologias de forma autodidata. Experiência com **JavaScript**, **Swift**, **Java**, **React.js**, **Node.js**, **Python**, **HTML5** e **CSS**.
 
 
 
